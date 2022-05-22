@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Course_work.Models.Field">
+    <Position X="16.5" Y="1.5" Width="1.75" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="Course_work.Models.Field.ShotResult" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Models\ShotResult.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AQAiABgAJAAAAAAEAAA8AEIAAAAEABABQAAAAACAAAA=</HashCode>
+      <FileName>Models\Field.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Course_work.Models.Logger">
+    <Position X="5.25" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAACAAAAAAAAAAAAAAgAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>Models\Logger.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Course_work.Models.ParsingResult">
+    <Position X="5.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAgAAAAAAAAAAAAACAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\ParsingResult.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Course_work.Models.SaveLoadParser">
+    <Position X="5" Y="3" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAkQAAAAAAgAAAAAAAABAAAAAAAAAABAAQA=</HashCode>
+      <FileName>Models\SaveLoadParser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Course_work.Models.Ship">
+    <Position X="7.75" Y="8" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAgQCAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Ship.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Course_work.Program">
+    <Position X="5.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Course_work.Form1">
+    <Position X="7.25" Y="1.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AQQAAACAACAAAAAAAACAAAACgEA4IAgAAHAIAAAABAE=</HashCode>
+      <FileName>Views\Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Course_work.Views.Arrangement">
+    <Position X="10.5" Y="1.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AJCgAAACACAAAoAQAACAAAQmAAABCARgAIAkAAAAUgA=</HashCode>
+      <FileName>Views\Arrangement.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Course_work.Views.Battle">
+    <Position X="13.5" Y="1.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>GJmAAAAiCCAQEIASAgCAAAwCIAACCAwIAIQkMAAQEAE=</HashCode>
+      <FileName>Views\Battle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
